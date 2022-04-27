@@ -1,7 +1,7 @@
 ---
-layout: post
-author: Someone who can enlighten you
-title: The world is not fair
+description: The world is not fair
+permalink: /about01/
+lang: en
 ---
 Excerpts from a speech
 
