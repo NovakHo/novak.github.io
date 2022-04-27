@@ -65,7 +65,7 @@
 
 ## 联系交流
 
-* [Github主页](https://github.com/scottcgi)上的邮箱。
+* [Github主页](https://novakho.github.io/01about/)上的邮箱。
 
 ```
 过程就是奖励，旅途就是回报，行动即是答案。
