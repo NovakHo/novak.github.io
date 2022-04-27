@@ -1,10 +1,10 @@
 title      : scott.cgi
 lang       : zh
 description: 编程写作 / 迭代认知 / 执行计划
-copyright  : © 2018 - 2021 scott.cgi All Rights Reserved
+copyright  : © 2018 - 2021 Novak Ho All Rights Reserved
 
 nav:
  - name: 中文
    link: /
  - name: En
-   link: /about/
+   link: /novak.gitlab.io/about/
